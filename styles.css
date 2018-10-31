@@ -1,0 +1,111 @@
+body{background-color: gray;
+
+}
+
+
+.ziaulislam { 
+	font-family:Times New Roman;
+    font-size: 100px;
+    letter-spacing: -15px;
+}
+
+.ziaul-Z{color:#4285F4;}
+.ziaul-i{color:#DB4437;}
+.ziaul-a{color:#4285F4;}
+.ziaul-u{color:#0F9D58;}
+.ziaul-I{color:#4285F4; }
+.ziaul-s{color:#9e895c; }
+.ziaul-l{color:#0093d4;}
+.ziaul-a{color: #008000;}
+.ziaul-m{color: #DB4437;}
+
+
+
+a#l:hover{
+  background-color:purple;
+  color: red;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10px;
+ 
+  
+}
+ h2#my{
+     color: maroon;
+background-color: whitesmoke;
+
+ }
+
+ p#n{
+     color: darkred;
+
+ }
+ h6#h{
+color: darkblue;
+background-color:white;
+
+
+ }
+
+h1#personal-info{
+   
+   border: 0.8rem outset blue;
+   border-radius: 12px;
+   border-width: 5px;
+   background-color: gray;
+   
+}
+h1#education
+{
+   border: 0.8rem outset blue;
+   border-radius: 12px;
+   border-width: 5px;
+   background-color: gray;
+}
+h1#nationality{
+	border: 0.8rem outset blue;
+	border-radius: 12px;
+    border-width: 5px;
+    background-color: gray;
+
+}
+h1#computerandtechnology
+{
+	border: 0.8rem outset blue;
+	border-radius: 12px;
+    border-width: 5px;
+    background-color: gray;
+
+}
+h1#my-hobby{
+	border: 0.8rem outset blue;
+	border-radius: 12px;
+    border-width: 5px;
+    background-color: gray;
+
+}
+table,td{
+    border:2px solid black;
+    border-collapse: initial;
+}
+
+
+ 
+address {
+    display: block;
+    font-style: italic;
+    color:white;
+}
+    .fa {
+        padding: 10px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        color: white;
+      }
+    
+  
